@@ -306,6 +306,21 @@ body {
   fill: #ffffff;
 }
 
+.modal-container {
+  position: relative;
+  padding: 72px 24px 24px 24px;
+  gap: 8px;
+}
+
+.modal-title {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px; /* 150% */
+  letter-spacing: 0.32px;
+  color: var(--NAVY-BLUE);
+  text-align: center;
+}
+
 /* section one styles , webstudio qualities */
 .first-section-container {
   padding: 120px 0;
